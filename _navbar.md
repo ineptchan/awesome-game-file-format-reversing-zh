@@ -1,4 +1,4 @@
-- [Home](README.md)
-- [Community](#-communities--wikis)
-- [Tools](#-general-tools)
-- [Game & Studio Tools](#-game--studio-tools)
+- [首页](README.md)
+- [社区](#-communities--wikis)
+- [工具](#-general-tools)
+- [游戏与工作室工具](#-game--studio-tools)

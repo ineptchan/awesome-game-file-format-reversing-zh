@@ -1,5 +1,5 @@
 # Awesome Game File Format Reversing
 
-> Curated resources for reversing video game file formats, now served with Docsify.
+> 精选的电子游戏文件格式逆向资源，使用 Docsify 呈现。
 
-[Browse the full list →](README.md)
+[浏览完整列表 ➜](README.md)
